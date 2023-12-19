@@ -21,6 +21,5 @@
             </x-app-layout>
         </div>
         <div class="col-4"></div>
-   
     </div>
 </div>
